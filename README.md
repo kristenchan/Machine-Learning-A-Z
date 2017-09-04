@@ -13,6 +13,7 @@ Udemy Course - Machine Learning A-Z™: Hands-On Python & R
     - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-1%20-%20Simple%20Linear%20Regression/Py_Simple_Linear_Regression.ipynb">Python</a>
     - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-1%20-%20Simple%20Linear%20Regression/R_Simple_Linear_Regression.ipynb">R</a>
   - 2-2 - Multiple Linear Regression
+    - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-1%20-%20Simple%20Linear%20Regression/Py_Multiple_Linear_Regression.ipynb">Python</a>
   - 2-3 - Polynomial Regression
   - 2-4 - Support Vector Regression (SVR)
   - 2-5 - Decision Tree Regression
