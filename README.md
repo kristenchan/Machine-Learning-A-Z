@@ -10,7 +10,7 @@ Udemy Course - Machine Learning A-Z™: Hands-On Python & R
   - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%201%20-%20Data%20Preprocessing/R_Data_preprocessing.ipynb">R</a>
 + <b>Part 2 - Regression</b>
   - 2-1 - Simple Linear Regression
-    - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-1%20-%20Simple%20Linear%20Regression/Py_Simple_Linear_Regression.ipynb">Python</a>
+    - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-2%20-%20Multiple%20Linear%20Regression/Py_Multiple_Linear_Regression.ipynb">Python</a>
     - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-1%20-%20Simple%20Linear%20Regression/R_Simple_Linear_Regression.ipynb">R</a>
   - 2-2 - Multiple Linear Regression
     - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-1%20-%20Simple%20Linear%20Regression/Py_Multiple_Linear_Regression.ipynb">Python</a>
