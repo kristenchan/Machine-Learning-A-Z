@@ -17,6 +17,7 @@ Udemy Course - Machine Learning A-Z™: Hands-On Python & R
   - 2-3 - Polynomial Regression
     - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-3%20-%20Polynomial_Regression/Py_Polynomial_Regression.ipynb">Python</a>
   - 2-4 - Support Vector Regression (SVR)
+    - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-4%20-%20Support%20Vector%20Regression(SVR)/Py_Support%20Vector%20Regression(SVR).ipynb">Python</a>
   - 2-5 - Decision Tree Regression
   - 2-6 - Random Forest Regression
   - 2-7 - Evaluating Regression Models Performance
