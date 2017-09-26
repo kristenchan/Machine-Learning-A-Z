@@ -1,6 +1,6 @@
 # <a href="https://kristenchan.github.io/Machine-Learning-A-Z/"> Machine Learning A-Z™ </a>
 Udemy Course - Machine Learning A-Z™: Hands-On Python & R 
-+ Exercises and examples from Udemy 
++ Exercises and examples from Udemy Course  
 + My learning notes
 
 ***
@@ -22,8 +22,8 @@ Udemy Course - Machine Learning A-Z™: Hands-On Python & R
     - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-5%20-%20Decision_Tree_Regression/Py_Decision_Tree_Regression.ipynb">Python</a>
   - 2-6 - Random Forest Regression
     - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-6%20-%20Random_Forest_Regression/Py_Random_Forest_Regression.ipynb">Python</a>
-  - 2-7 - Evaluating Regression Models Performance
-  - 2-8 - Regularization Methods
+  - 2-7 - Evaluating Regression Models Performance & Regularization Methods
+  - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-7%20-%20Evaluating%20Regression%20Models%20Performance/Evaluating_Regression_Models_Performance.ipynb">Python</a>
 + <b>Part 3 - Classification</b> 
   - 3-1 - Logistic Regression
   - 3-2 - K-Nearest Neighbors (K-NN)
