@@ -23,7 +23,7 @@ Udemy Course - Machine Learning A-Z™: Hands-On Python & R
   - 2-6 - Random Forest Regression
     - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-6%20-%20Random_Forest_Regression/Py_Random_Forest_Regression.ipynb">Python</a>
   - 2-7 - Evaluating Regression Models Performance & Regularization Methods
-  - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-7%20-%20Evaluating%20Regression%20Models%20Performance/Evaluating_Regression_Models_Performance.ipynb">Python</a>
+  - <a href="https://github.com/kristenchan/Machine-Learning-A-Z/blob/master/Part%202%20-%20Regression/2-7%20-%20Evaluating%20Regression%20Models%20Performance/Evaluating_Regression_Models_Performance.ipynb">Material</a>
 + <b>Part 3 - Classification</b> 
   - 3-1 - Logistic Regression
   - 3-2 - K-Nearest Neighbors (K-NN)
